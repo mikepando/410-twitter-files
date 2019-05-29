@@ -1,5 +1,5 @@
 # Text Mining R Code & Data
-During the spring semester of 2019, I did a text mining project on the Tor Project, for my 410 Data Mining course at Manhattan College. The files in this repository include the R code I used to gather and clean tweets, as well as visualize the data. I also included the data I pulled from Twitter and used myself.
+During the spring semester of 2019, I did a text mining project on the Tor Project, for my 410 Data Mining course at Manhattan College. The files in this repository include the R code I used to gather and clean tweets, as well as visualize the data. I also included the data I pulled from Twitter and used myself. [Project writeup](https://mikepando.github.io/essays/2019-05-09.html).
 
 The only file missing are my API credentials, which you can apply for [here](https://developer.twitter.com/).
 
